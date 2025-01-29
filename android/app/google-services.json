@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "675467476510",
+    "project_id": "ticketsystem-2c42c",
+    "storage_bucket": "ticketsystem-2c42c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675467476510:android:b4d269ae91df7a4ce9f80f",
+        "android_client_info": {
+          "package_name": "com.example.ticketsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbva1pfyc6qof_7Xnf_Bwb-O6SwQZuu7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
